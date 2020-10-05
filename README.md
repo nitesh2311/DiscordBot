@@ -6,7 +6,9 @@
 2. Get custom google api key and engine id from google and add into the .env file
 3. Run `npm install` to install all the dependecies
 4. Create table in Postgres DB and add the connection string in process environment variable
+
 command to create table `Create table search_history (user_id varchar(50), searched_string varchar(100), id serial primary key);`
+
 command to add connection string `set DATABASE_URL = <connection URL>`
 4. Run `npm start` to start the server
 5. Now bot will be up and running
