@@ -17,5 +17,5 @@ command to add connection string `set DATABASE_URL = <connection URL>`
 #Usage
 
 1. Type '!Hi' in chat bot will respond as '!Hey'
-2. Type '!google <search_keyword>' in chat bot will respond as 5 search result links of <search_keyword>
-3. Type '!recent <keyword>' in chat bot will respond as recent search history related to this <keyword>
+2. Type '!google <search_string>' in chat bot will respond as 5 search result links of <search_string>
+3. Type '!recent <string>' in chat bot will respond as recent search history related to this <string>
