@@ -19,4 +19,4 @@ command to add connection string: `set DATABASE_URL = <connection URL>`
 
 1. Type '!Hi' in chat bot will respond as '!Hey'
 2. Type '!google <search_string>' in chat bot will respond as 5 search result links of <search_string>
-3. Type '!recent <string>' in chat bot will respond as recent search history related to this <string>
+3. Type '!recent <searched_string>' in chat bot will respond as recent search history related to this <searched_string>
